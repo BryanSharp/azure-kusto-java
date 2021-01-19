@@ -37,7 +37,7 @@
         <!-- Versions below are for several dependencies we're using in the data & ingest modules -->
 
         <!-- Compile dependencies -->
-        <slf4j.version>1.8.0-beta4</slf4j.version>
+        <slf4j.version>1.7.30</slf4j.version>
         <commons-lang3.version>3.9</commons-lang3.version>
         <msal4j.version>1.8.1</msal4j.version>
         <httpclient.version>4.5.8</httpclient.version>
